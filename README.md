@@ -1,0 +1,2 @@
+# InternetYamero
+インターネットやめろ Discord Bot
