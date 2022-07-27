@@ -1,0 +1,21 @@
+{
+  "name": "internetyamero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SpecialAgency-Chat/InternetYamero",
+  "author": "すずねーう <suzuneu@suzuneu.com>",
+  "license": "MIT",
+  "engines": {
+    "npm": "Yarn tukae"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "canvas": "^2.9.3",
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "stackblur-canvas": "^2.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
